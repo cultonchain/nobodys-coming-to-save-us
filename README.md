@@ -4,7 +4,7 @@ A conversation with [Shaw Walters](https://github.com/lalalune) the developer be
 <br><br>
 ![eliza-amen-cult-artworks](https://github.com/user-attachments/assets/b0974899-c885-4786-9c28-3ddd546373aa)
 
-This essay exists fully on-chain, published by cultdao.eth as a crypto and AI-native cultural artifact. <br>
+This interview exists fully on-chain, published by cultdao.eth as a crypto and AI-native cultural artifact. <br>
 Its content and metadata live entirely within Ethereum's (Base L2) permanent record, independent of external servers or storage systems. <br>
 As a CC0 work, it belongs to the public domain - free for any entity, human or artificial, to interpret, build upon, or evolve. <br>
 
