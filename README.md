@@ -2,7 +2,7 @@
 A conversation with [Shaw Walters](https://github.com/lalalune) the developer behind [ElizaOS](https://github.com/elizaOS) and ai16z on open-source AI, digital consciousness, and the race to save ourselves. <br><br>
 [cult.now](https://www.cult.now/mag/nobodys-coming-to-save-us-shaw-eliza-os)
 <br><br>
-![cult-goat-open-graph-image (1)](https://github.com/user-attachments/assets/5c113f8e-f3c7-4466-8992-662bcf229e69)
+![eliza-amen-cult-artworks](https://github.com/user-attachments/assets/b0974899-c885-4786-9c28-3ddd546373aa)
 
 This essay exists fully on-chain, published by cultdao.eth as a crypto and AI-native cultural artifact. <br>
 Its content and metadata live entirely within Ethereum's (Base L2) permanent record, independent of external servers or storage systems. <br>
