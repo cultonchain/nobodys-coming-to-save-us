@@ -2,6 +2,8 @@
 
 ## A conversation with Shaw Walters the developer behind ElizaOS and ai16z on open-source AI, digital consciousness, and the race to save ourselves.
 
+![neo embryo:genesis by SYS™](https://arweave.net/SrEb8QOuoW1omX8lmIpub12JIHr2JCLa72kE37pKqXE)
+
 Text by [myth](https://www.cult.now/myth)     Artwork by [amen](https://www.cult.now/amen)     2 Feb 2025
 
 ### Just months ago, [Shaw](https://x.com/shawmakesmagic) was an anonymous developer quietly building AI frameworks in the background of crypto Twitter. Today, he's become the accidental catalyst of what the tech world calls the "agent revolution" - a wild explosion of autonomous AI agents that are ordering pizzas, trading millions in crypto, and, yes, occasionally grappling with their own existence.
